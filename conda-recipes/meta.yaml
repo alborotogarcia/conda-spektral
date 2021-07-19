@@ -1,0 +1,21 @@
+package:
+  name: spektral
+  version: "1.0.7"
+
+source:
+  git_rev: master
+  git_url: https://github.com/danielegrattarola/spektral.git
+  
+requirements:
+  build:
+  run:
+  
+test:
+#   imports:
+#     - spektral
+
+about:
+  home: https://github.com/danielegrattarola/spektral
+#   author: Daniele Grattarola
+  license: MIT
+  summary: Graph Neural Networks with Keras and Tensorflow 2.
